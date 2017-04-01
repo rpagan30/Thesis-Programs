@@ -1,0 +1,115 @@
+//
+//  main.cpp
+//  basecount test
+//
+//  Created by Rafael Pagan on 11/9/12.
+//  Copyright (c) 2012 Rafael Pagan. All rights reserved.
+//
+
+#include <iostream>
+#include <string>
+#include <fstream>
+
+using namespace std ;
+
+int main()
+{
+   int SIZE = 500 ;
+   
+   char DNAseq[600] ;
+   
+   double basecount_C, basecount_G , basecount_A , basecount_T , totalbasecount  ;
+   
+   double Cpercent ;
+   double Gpercent ;
+   double Apercent ;
+   double Tpercent ;
+   
+   ifstream ifile ;
+   
+   ofstream ofile ;
+   
+   int i = 0 ;
+   
+   int k = 0 ;
+   
+   ifile.open("./dna.txt") ;
+   
+   while(k < SIZE && ifile >> DNAseq[k])
+   {
+       k++ ;
+   }
+   
+   
+   for ( int e = 0 ; e < k ; e++)
+   {
+       cout << DNAseq[e] ;
+   }
+   
+   ifile.close() ;
+   
+   basecount_C = basecount_G = basecount_A = basecount_T = totalbasecount = 0 ;
+   
+   while( DNAseq[i] == 'A' || DNAseq[i] == 'T' || DNAseq[i] == 'G' || DNAseq[i] == 'C' )
+   {
+       totalbasecount++ ;
+       
+       i++ ;
+       
+       switch(DNAseq[i])
+       {
+               
+           case 'C':
+               
+               basecount_C++ ;
+               
+               break ;
+               
+           case 'G':
+               
+               basecount_G++ ;
+               
+               break ;
+               
+           case 'A':
+               
+               basecount_A++ ;
+               
+               break ;
+               
+           case 'T':
+               
+               basecount_T++ ;
+               
+               break ;
+               
+       }
+       
+   }
+   
+   ofile.open("./dnacount.txt") ;
+   
+   ofile << " The total base count is: \n" << totalbasecount << "\n The count of the individual bases yields \n A: " << basecount_A << "\n T: " << basecount_T << "\n C: " << basecount_C << "\n G: " << basecount_G ;
+   
+   Apercent = basecount_A / totalbasecount ;
+   
+   ofile << " \n The percentage of A is: " << Apercent ;
+   
+   Tpercent = basecount_T / totalbasecount ;
+
+   ofile << " \n The percentage of T is: " << Tpercent ;
+   
+   Gpercent = basecount_G / totalbasecount ;
+   
+   ofile << " \n The percentage of G is: " << Gpercent ;
+   
+   Cpercent = basecount_C / totalbasecount ;
+   
+   ofile << " \n The percentage of C is: " << Cpercent ;
+   
+   ofile.close() ;
+   
+   return 0 ;
+}
+
+

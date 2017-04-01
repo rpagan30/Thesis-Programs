@@ -1,0 +1,400 @@
+
+Using parameters from /home/rpagan/Desktop/nuneutralrobustness/scwrl4_lin//Scwrl4.ini
+
+<Timing tag = "Loading_PDB_file"  duration = "0.000" />
+
+Using rotamer library: /home/rpagan/Desktop/nuneutralrobustness/scwrl4_lin/bbDepRotLib.bin
+
+Caution! Flexible subrotamers are disabled (Rigid Rotamer Model has been forced)
+
+Residue A   1  is being treated as N-terminal
+
+<Timing tag = "Adding_residues"  duration = "0.000" />
+
+Sequence file has been loaded
+---------------
+"sgknvwwamilsmniqyvvvmfiicfcscqpivsvintqyhpamvfglincdhsgr"
+---------------
+
+Warning! In the provided sequence file, the position 0 reads as 's' which mismatches the MET  A   1  in the input PDB file.
+
+9 MET rotamers derived from the rotamer library will be used
+Warning! In the provided sequence file, the position 1 reads as 'g' which mismatches the THR  A   2  in the input PDB file.
+
+1 THR rotamers derived from the rotamer library will be used
+Incomplete LYS sidechain at A   3  in the input PDB file.
+
+26 LYS rotamers derived from the rotamer library will be used
+Warning! In the provided sequence file, the position 3 reads as 'n' which mismatches the GLN  A   4  in the input PDB file.
+
+19 GLN rotamers derived from the rotamer library will be used
+Warning! In the provided sequence file, the position 4 reads as 'v' which mismatches the GLU  A   5  in the input PDB file.
+
+3 GLU rotamers derived from the rotamer library will be used
+Warning! In the provided sequence file, the position 5 reads as 'w' which mismatches the LYS  A   6  in the input PDB file.
+
+16 LYS rotamers derived from the rotamer library will be used
+Warning! In the provided sequence file, the position 6 reads as 'w' which mismatches the THR  A   7  in the input PDB file.
+
+17 THR rotamers derived from the rotamer library will be used
+Warning! In the provided sequence file, the position 8 reads as 'm' which mismatches the LEU  A   9  in the input PDB file.
+
+12 LEU rotamers derived from the rotamer library will be used
+Warning! In the provided sequence file, the position 9 reads as 'i' which mismatches the ASN  A  10  in the input PDB file.
+
+4 ASN rotamers derived from the rotamer library will be used
+Warning! In the provided sequence file, the position 10 reads as 'l' which mismatches the MET  A  11  in the input PDB file.
+
+3 MET rotamers derived from the rotamer library will be used
+Warning! In the provided sequence file, the position 11 reads as 's' which mismatches the ALA  A  12  in the input PDB file.
+
+9 ALA rotamers derived from the rotamer library will be used
+Warning! In the provided sequence file, the position 12 reads as 'm' which mismatches the ARG  A  13  in the input PDB file.
+
+12 ARG rotamers derived from the rotamer library will be used
+Warning! In the provided sequence file, the position 13 reads as 'n' which mismatches the PHE  A  14  in the input PDB file.
+
+20 PHE rotamers derived from the rotamer library will be used
+Warning! In the provided sequence file, the position 15 reads as 'q' which mismatches the ARG  A  16  in the input PDB file.
+
+42 ARG rotamers derived from the rotamer library will be used
+Warning! In the provided sequence file, the position 16 reads as 'y' which mismatches the SER  A  17  in the input PDB file.
+
+16 SER rotamers derived from the rotamer library will be used
+Warning! In the provided sequence file, the position 17 reads as 'v' which mismatches the GLN  A  18  in the input PDB file.
+
+2 GLN rotamers derived from the rotamer library will be used
+Warning! In the provided sequence file, the position 18 reads as 'v' which mismatches the THR  A  19  in the input PDB file.
+
+3 THR rotamers derived from the rotamer library will be used
+Warning! In the provided sequence file, the position 19 reads as 'v' which mismatches the LEU  A  20  in the input PDB file.
+
+3 LEU rotamers derived from the rotamer library will be used
+Warning! In the provided sequence file, the position 20 reads as 'm' which mismatches the THR  A  21  in the input PDB file.
+
+12 THR rotamers derived from the rotamer library will be used
+Warning! In the provided sequence file, the position 21 reads as 'f' which mismatches the LEU  A  22  in the input PDB file.
+
+9 LEU rotamers derived from the rotamer library will be used
+Warning! In the provided sequence file, the position 22 reads as 'i' which mismatches the LEU  A  23  in the input PDB file.
+
+4 LEU rotamers derived from the rotamer library will be used
+Warning! In the provided sequence file, the position 23 reads as 'i' which mismatches the GLU  A  24  in the input PDB file.
+
+4 GLU rotamers derived from the rotamer library will be used
+Warning! In the provided sequence file, the position 24 reads as 'c' which mismatches the LYS  A  25  in the input PDB file.
+
+3 LYS rotamers derived from the rotamer library will be used
+Warning! In the provided sequence file, the position 25 reads as 'f' which mismatches the LEU  A  26  in the input PDB file.
+
+10 LEU rotamers derived from the rotamer library will be used
+Warning! In the provided sequence file, the position 26 reads as 'c' which mismatches the ASN  A  27  in the input PDB file.
+
+2 ASN rotamers derived from the rotamer library will be used
+Warning! In the provided sequence file, the position 27 reads as 's' which mismatches the GLU  A  28  in the input PDB file.
+
+9 GLU rotamers derived from the rotamer library will be used
+Warning! In the provided sequence file, the position 28 reads as 'c' which mismatches the LEU  A  29  in the input PDB file.
+
+2 LEU rotamers derived from the rotamer library will be used
+Warning! In the provided sequence file, the position 29 reads as 'q' which mismatches the ASP  A  30  in the input PDB file.
+
+23 ASP rotamers derived from the rotamer library will be used
+Warning! In the provided sequence file, the position 30 reads as 'p' which mismatches the ALA  A  31  in the input PDB file.
+
+2 ALA rotamers derived from the rotamer library will be used
+Warning! In the provided sequence file, the position 31 reads as 'i' which mismatches the ASP  A  32  in the input PDB file.
+
+2 ASP rotamers derived from the rotamer library will be used
+Warning! In the provided sequence file, the position 32 reads as 'v' which mismatches the GLU  A  33  in the input PDB file.
+
+3 GLU rotamers derived from the rotamer library will be used
+Warning! In the provided sequence file, the position 33 reads as 's' which mismatches the GLN  A  34  in the input PDB file.
+
+9 GLN rotamers derived from the rotamer library will be used
+Warning! In the provided sequence file, the position 34 reads as 'v' which mismatches the ALA  A  35  in the input PDB file.
+
+2 ALA rotamers derived from the rotamer library will be used
+Warning! In the provided sequence file, the position 35 reads as 'i' which mismatches the ASP  A  36  in the input PDB file.
+
+2 ASP rotamers derived from the rotamer library will be used
+Warning! In the provided sequence file, the position 36 reads as 'n' which mismatches the ILE  A  37  in the input PDB file.
+
+18 ILE rotamers derived from the rotamer library will be used
+Warning! In the provided sequence file, the position 37 reads as 't' which mismatches the CYS  A  38  in the input PDB file.
+
+6 CYS rotamers derived from the rotamer library will be used
+Warning! In the provided sequence file, the position 38 reads as 'q' which mismatches the GLU  A  39  in the input PDB file.
+
+46 GLU rotamers derived from the rotamer library will be used
+Warning! In the provided sequence file, the position 39 reads as 'y' which mismatches the SER  A  40  in the input PDB file.
+
+20 SER rotamers derived from the rotamer library will be used
+Warning! In the provided sequence file, the position 40 reads as 'h' which mismatches the LEU  A  41  in the input PDB file.
+
+36 LEU rotamers derived from the rotamer library will be used
+Warning! In the provided sequence file, the position 41 reads as 'p' which mismatches the HIS  A  42  in the input PDB file.
+
+2 HIS rotamers derived from the rotamer library will be used
+Warning! In the provided sequence file, the position 42 reads as 'a' which mismatches the ASP  A  43  in the input PDB file.
+
+1 ASP rotamers derived from the rotamer library will be used
+Warning! In the provided sequence file, the position 43 reads as 'm' which mismatches the HIS  A  44  in the input PDB file.
+
+13 HIS rotamers derived from the rotamer library will be used
+Warning! In the provided sequence file, the position 44 reads as 'v' which mismatches the ALA  A  45  in the input PDB file.
+
+2 ALA rotamers derived from the rotamer library will be used
+Warning! In the provided sequence file, the position 45 reads as 'f' which mismatches the ASP  A  46  in the input PDB file.
+
+9 ASP rotamers derived from the rotamer library will be used
+Warning! In the provided sequence file, the position 46 reads as 'g' which mismatches the GLU  A  47  in the input PDB file.
+
+1 GLU rotamers derived from the rotamer library will be used
+Warning! In the provided sequence file, the position 48 reads as 'i' which mismatches the TYR  A  49  in the input PDB file.
+
+2 TYR rotamers derived from the rotamer library will be used
+Warning! In the provided sequence file, the position 49 reads as 'n' which mismatches the ARG  A  50  in the input PDB file.
+
+19 ARG rotamers derived from the rotamer library will be used
+Warning! In the provided sequence file, the position 50 reads as 'c' which mismatches the SER  A  51  in the input PDB file.
+
+2 SER rotamers derived from the rotamer library will be used
+Warning! In the provided sequence file, the position 51 reads as 'd' which mismatches the CYS  A  52  in the input PDB file.
+
+11 CYS rotamers derived from the rotamer library will be used
+Warning! In the provided sequence file, the position 52 reads as 'h' which mismatches the LEU  A  53  in the input PDB file.
+
+42 LEU rotamers derived from the rotamer library will be used
+Warning! In the provided sequence file, the position 53 reads as 's' which mismatches the ALA  A  54  in the input PDB file.
+
+9 ALA rotamers derived from the rotamer library will be used
+Warning! In the provided sequence file, the position 54 reads as 'g' which mismatches the ARG  A  55  in the input PDB file.
+
+1 ARG rotamers derived from the rotamer library will be used
+Warning! In the provided sequence file, the position 55 reads as 'r' which mismatches the PHE  A  56  in the input PDB file.
+
+21 PHE rotamers derived from the rotamer library will be used
+<Timing tag = "Building_Atoms_Sets"  duration = "0.000" />
+
+<Timing tag = "Building_Flexible_Subrotamers"  duration = "0.000" />
+
+<Timing tag = "Computing_Symmetry_Operators"  duration = "0.000" />
+
+<Timing tag = "Updating_Self_Energies"  duration = "0.010" />
+
+<Timing tag = "Computing_Active_Rotamers"  duration = "0.000" />
+
+<Timing tag = "Resolving_Disulfide_Bonds"  duration = "0.000" />
+
+
+Total number of subrotamer interactions = 5829
+
+<Timing tag = "Updating_Pairwise_Energies"  duration = "0.010" />
+
+<Timing tag = "Normalizing_Atoms_Sets"  duration = "0.000" />
+
+<Timing tag = "Computing_Interaction_Graph"  duration = "0.020" />
+ 
+
+<Timing tag = "Building_Atoms_Sets"  duration = "0.000" />
+
+<Timing tag = "Building_Flexible_Subrotamers"  duration = "0.000" />
+
+<Timing tag = "Computing_Symmetry_Operators"  duration = "0.000" />
+
+<Timing tag = "Updating_Self_Energies"  duration = "0.010" />
+
+<Timing tag = "Computing_Active_Rotamers"  duration = "0.000" />
+
+<Timing tag = "Resolving_Disulfide_Bonds"  duration = "0.000" />
+
+
+Total number of subrotamer interactions = 0
+
+<Timing tag = "Updating_Pairwise_Energies"  duration = "0.000" />
+
+<Timing tag = "Normalizing_Atoms_Sets"  duration = "0.000" />
+
+
+Running Goldstein's DEE (version G)
+:::::::::::::::::::::::::::::::::::
+
+Initial number of residues - 47
+Initial number of rotamers - 499
+
+	77 redundant edges eliminated
+
+	Isolated residues removed - 5 
+
+round 1:
+	10 redundant edges eliminated
+
+	Isolated residues removed - 23 
+	Rotamers eliminated  -  386
+
+round 2:
+	2 redundant edges eliminated
+
+	Isolated residues removed - 4 
+	Rotamers eliminated  -  20
+
+round 3:
+	0 redundant edges eliminated
+
+	Isolated residues removed - 0 
+	Rotamers eliminated  -  1
+
+round 4:
+	0 redundant edges eliminated
+
+	Isolated residues removed - 0 
+	Rotamers eliminated  -  0
+Energy accumulated during DEE = 185.41
+<Timing tag = "DEE"  duration = "0.000" />
+
+Searching for clusters... 4 clusters found
+
+Processing cluster of 3 vertices
+
+Redundant nodes eliminated : 1
+Tree-decomposition has been built. Width+1 = 1
+
+Total combinations to search = 3e+1
+   1        :   ->   37  39
+   0(   1 ) :   39  ->   38
+
+ArtPts =  0	MaxDegree =  1	MaxBag =  1	AvgBag = 2
+
+===============================
+Launching bottom-to-top process
+Combinations:
+	in intersections -   3
+	in exclusions   -  63.2
+	total to search  -  18
+
+Maximal size of a key is 3 elements
+
+Processing nodes .
+<Timing tag = "Bottom_To_Top"  duration = "0.000" />
+
+<Trace tag = "Deciding_on_the_root_node" >
+
+Number of combinations = 1.2e+1
+<Timing tag = "Deciding_on_the_root_node"  duration = "0.000" />
+</Trace>
+<Trace tag = "Top_To_Bottom" >
+
+<Timing tag = "Top_To_Bottom"  duration = "0.000" />
+</Trace>
+Energy of this cluster = 14.5173
+
+
+Processing cluster of 4 vertices
+
+Redundant nodes eliminated : 1
+Tree-decomposition has been built. Width+1 = 1
+
+Total combinations to search = 1.9e+1
+   2        :   ->   35  23
+   1(   2 ) :   35  ->   20
+   0(   1 ) :   20  ->   36
+
+ArtPts =  0	MaxDegree =  2	MaxBag =  1	AvgBag = 2
+
+===============================
+Launching bottom-to-top process
+Combinations:
+	in intersections -   5
+	in exclusions   -  63.2
+	total to search  -  15
+
+Maximal size of a key is 3 elements
+
+Processing nodes ..
+<Timing tag = "Bottom_To_Top"  duration = "0.000" />
+
+<Trace tag = "Deciding_on_the_root_node" >
+
+Number of combinations = 4
+<Timing tag = "Deciding_on_the_root_node"  duration = "0.000" />
+</Trace>
+<Trace tag = "Top_To_Bottom" >
+
+<Timing tag = "Top_To_Bottom"  duration = "0.000" />
+</Trace>
+Energy of this cluster = 29.7607
+
+
+Processing cluster of 6 vertices
+
+Redundant nodes eliminated : 2
+Tree-decomposition has been built. Width+1 = 2
+
+Total combinations to search = 5.4e+1
+   3        :   ->    5   7   8
+   2(   3 ) :    7  ->   11
+   1(   2 ) :   11  ->   14
+   0(   1 ) :   14  ->   18
+
+ArtPts =  0	MaxDegree =  2	MaxBag =  2	AvgBag = 2.25
+
+===============================
+Launching bottom-to-top process
+Combinations:
+	in intersections -  11
+	in exclusions   -  103.2
+	total to search  -  30
+
+Maximal size of a key is 6 elements
+
+Processing nodes ...
+<Timing tag = "Bottom_To_Top"  duration = "0.000" />
+
+<Trace tag = "Deciding_on_the_root_node" >
+
+Number of combinations = 2.4e+1
+<Timing tag = "Deciding_on_the_root_node"  duration = "0.000" />
+</Trace>
+<Trace tag = "Top_To_Bottom" >
+
+<Timing tag = "Top_To_Bottom"  duration = "0.000" />
+</Trace>
+Energy of this cluster = 16.2193
+
+
+Processing cluster of 2 vertices
+
+Redundant nodes eliminated : 1
+Tree-decomposition has been built. Width+1 = 1
+
+Total combinations to search = 6
+   0        :   ->    6   9
+
+ArtPts =  0	MaxDegree =  0	MaxBag =  1	AvgBag = 2
+
+<Trace tag = "Deciding_on_the_root_node" >
+
+Number of combinations = 6
+<Timing tag = "Deciding_on_the_root_node"  duration = "0.000" />
+</Trace>
+<Trace tag = "Top_To_Bottom" >
+
+<Timing tag = "Top_To_Bottom"  duration = "0.000" />
+</Trace>
+Energy of this cluster = 6.34351
+
+
+Total minimal energy of the graph = 252.251
+
+<Timing tag = "Combinatorial_Search"  duration = "0.000" />
+
+<Timing tag = "Deriving_Optimum"  duration = "0.010" />
+
+<Timing tag = "Saving_to_PDB_file"  duration = "0.000" />
+
+
+Deleting workspace.
+
+<Timing tag = "Scwrl4_Execution"  duration = "0.040" />
+
